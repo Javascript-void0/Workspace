@@ -1,6 +1,7 @@
 import sys
 from time import sleep
 from random import randint
+from termcolor import colored
 
 row_1 = ['   ', '|', '   ', '|', '   ', '\n']
 row_2 = ['---', '+', '---', '+', '---', '\n']
@@ -10,7 +11,7 @@ row_5 = ['   ', '|', '   ', '|', '   ', '\n']
 board = [row_1, row_2, row_3, row_4, row_5]
 
 def drawBoard():
-    print('\nTic-Tac-Toe\n')
+    print(colored('\nTic', 'cyan') + colored('-Tac-', 'blue') + colored('Toe\n', 'cyan'))
     for column in board:
         for row in column:
             print(f'{row}', end='')
@@ -40,7 +41,7 @@ def checkPosition(pos):
 
 def changeTile(pos, player):
     if player == 'user':
-        mark = 'X'
+        mark = colored('X', 'yellow')
     elif player == 'cpu':
         mark = 'O'
     if pos == 1:
@@ -86,7 +87,7 @@ def cpuAnimation():
 
 def winCheck(player):
     if player == 'user':
-        mark = 'X'
+        mark = colored('X', 'yellow')
     elif player == 'cpu':
         mark = 'O'
     if row_1[0] == f' {mark} ' and row_1[2] == f' {mark} ' and row_1[4] == f' {mark} ':
@@ -131,7 +132,7 @@ while True:
                 print(' ')
                 drawBoard()
                 if winCheck('user'):
-                    print('\nYou Won!')
+                    print(colored('  You Won!', 'green'))
                     break
                 valid = True
             else:
@@ -141,7 +142,7 @@ while True:
     except NameError:
         pass
     if fullBoardCheck():
-        print('\nTie!')
+        print(colored('   Tie!', 'magenta'))
         break
     if valid:
         cpu_pos = randint(1, 9)
@@ -152,5 +153,5 @@ while True:
         print(' ')
         drawBoard()
         if winCheck('cpu'):
-            print('\nYou Lost!')
+            print(colored(' You Lost!', 'red'))
             break
