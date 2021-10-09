@@ -1,0 +1,44 @@
+command /shop:
+	permission: *
+	permission message: "&cThis command is only for the cool kids!"
+	trigger:
+		itemselectgui(player, oak log, 1)
+
+
+function itemselectgui(p: player, i: item, c: integer):
+	open virtual chest inventory with size 5 named "&3Shops" to {_p}
+	format gui slot 0,1,2,3,4,5,6,7,8, 9, 17, 18, 26, 27, 35, 36, 37, 38, 39, 40, 41, 42, 43 and 44 of {_p} with white stained glass pane named " "
+	format gui slot 10 of {_p} with red stained glass pane named "&c-1" to run:
+		amountModify({_p}, {_i}, {_c}, 1, "remove")
+	format gui slot 11 of {_p} with red stained glass pane named "&c-4" to run:
+		amountModify({_p}, {_i}, {_c}, 4, "remove")
+	format gui slot 19 of {_p} with red stained glass pane named "&c-8" to run:
+		amountModify({_p}, {_i}, {_c}, 8, "remove")
+	format gui slot 20 of {_p} with red stained glass pane named "&c-16" to run:
+		amountModify({_p}, {_i}, {_c}, 16, "remove")
+	format gui slot 28 of {_p} with red stained glass pane named "&c-32" to run:
+		amountModify({_p}, {_i}, {_c}, 32, "remove")
+	format gui slot 29 of {_p} with red stained glass pane named "&c-64" to run:
+		amountModify({_p}, {_i}, {_c}, 64, "remove")
+	format gui slot 15 of {_p} with lime stained glass pane named "&a+1" to run:
+		amountModify({_p}, {_i}, {_c}, 1, "add")
+	format gui slot 16 of {_p} with lime stained glass pane named "&a+4" to run:
+		amountModify({_p}, {_i}, {_c}, 4, "add")
+	format gui slot 24 of {_p} with lime stained glass pane named "&a+8" to run:
+		amountModify({_p}, {_i}, {_c}, 8, "add")
+	format gui slot 25 of {_p} with lime stained glass pane named "&a+16" to run:
+		amountModify({_p}, {_i}, {_c}, 16, "add")
+	format gui slot 33 of {_p} with lime stained glass pane named "&a+32" to run:
+		amountModify({_p}, {_i}, {_c}, 32, "add")
+	format gui slot 34 of {_p} with lime stained glass pane named "&a+64" to run:
+		amountModify({_p}, {_i}, {_c}, 64, "add")
+	format gui slot 22 of {_p} with {_i} named "%{_c}%"
+	
+function amountModify(p: player, i: item, c: integer, m: integer, a: text):
+	if {_a} is "add":
+		add {_m} to {_c}
+	else if {_a} is "remove":
+		remove {_m} from {_c}
+		if {_c} is less than 1:
+			set {_c} to 1
+	itemselectgui({_p}, {_i}, {_c})
