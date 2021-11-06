@@ -1,4 +1,7 @@
-import time, keyboard, sys
+import sys
+import time
+
+import keyboard
 
 count = 6
 for i in range(6):
