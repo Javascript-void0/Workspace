@@ -1336,7 +1336,7 @@ for i in range(len(weeks)):
         total = 0
         for score in nums:
             list = nums[score]
-            if score == 'pl0190121':
+            if score == '':
                 me = ' | '.join(str(x) for x in list)
             total = total + list[j]
         mean = total // len(nums)

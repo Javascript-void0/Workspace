@@ -1,8 +1,9 @@
-import java.util.Scanner;
-import java.util.Random;
-import java.util.List;
-import java.util.Arrays;
+package tictactoe;
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+import java.util.Random;
+import java.util.Scanner;
 
 public class tic {
     static ArrayList<Integer> playerPositions = new ArrayList<Integer>();
