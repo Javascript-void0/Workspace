@@ -12,8 +12,8 @@ void setup() {
         stroke(c1);
 
         for (int i = 0; i < circles.length; i++) {
-            float x = random(width);
-            float y = random(height);
+            float x = random(-30, width + 30);
+            float y = random(-30, height + 30);
             float r = random(60,100);
             circles[i] = new Circle(x,y,r);
         }
