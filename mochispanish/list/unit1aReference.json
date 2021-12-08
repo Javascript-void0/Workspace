@@ -1,0 +1,1521 @@
+{
+    "~:decks": [
+        {
+            "~:published?": {
+                "~#dt": 1636720441848
+            },
+            "~:name": "Unit 1a Reverse",
+            "~:id": "~:tOftvmcF",
+            "~:cards": {
+                "~#list": [
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "exciting",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "exciting"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "emocionante"
+                            }
+                        },
+                        "~:pos": "0f",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:qYlbqWA6",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692052187
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "to be interested in",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "to be interested in"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "estar interesado(a) enâ€¦"
+                            }
+                        },
+                        "~:pos": "0W",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:IDThAWDk",
+                        "~:review-reverse?": true,
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692066349
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "cheap, inexpensive",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "cheap, inexpensive"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "barato/a"
+                            }
+                        },
+                        "~:pos": "0h",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:qNJzFu74",
+                        "~:review-reverse?": true,
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692049018
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "day off, free day",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "day off, free day"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "un dia libre"
+                            }
+                        },
+                        "~:pos": "1",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:S4dw40LA",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692018904
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "movie theater/movies (in general)",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "movie theater/movies (in general)"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "el cine"
+                            }
+                        },
+                        "~:pos": "0o",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:vlgtNrab",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692037937
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "pool",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "pool"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "la piscina"
+                            }
+                        },
+                        "~:pos": "0k",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:UwMByNtR",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692044282
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "to go out to eat",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "to go out to eat"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "salir a comer"
+                            }
+                        },
+                        "~:pos": "0L",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:MdvNbMgx",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692083683
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "to rest",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "to rest"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "descansar"
+                            }
+                        },
+                        "~:pos": "0Z",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:csE8395U",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692061663
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "to hang out (*Also",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "to hang out (*Also"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "pasar el rato"
+                            }
+                        },
+                        "~:pos": "0O",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:k4YWwuTO",
+                        "~:review-reverse?": true,
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692078974
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "to go on vacation",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "to go on vacation"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "ir de vacaciones"
+                            }
+                        },
+                        "~:pos": "0S",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:e9dF7Cr6",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692072667
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "volunteer work",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "volunteer work"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "el trabajo voluntario"
+                            }
+                        },
+                        "~:pos": "0t",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:ZWQMhrYb",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692029975
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "hobby",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "hobby"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "la aficion"
+                            }
+                        },
+                        "~:pos": "7",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:D1zX4Iom",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692009479
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "pastime, hobby",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "pastime, hobby"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "el pasatiempo"
+                            }
+                        },
+                        "~:pos": "0u",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:6Acrk9Ml",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692028395
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "to exercise",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "to exercise"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "hacer ejercicio"
+                            }
+                        },
+                        "~:pos": "0U",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:L3QgsUZk",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692069518
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "to chat",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "to chat"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "charlar/platicar"
+                            }
+                        },
+                        "~:pos": "0a",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:LzUI4ZSU",
+                        "~:review-reverse?": true,
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692060079
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "adventure",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "adventure"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "la aventura"
+                            }
+                        },
+                        "~:pos": "5",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:oAr17oWG",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692012629
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "relaxing",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "relaxing"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "relajante"
+                            }
+                        },
+                        "~:pos": "0d",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:pEUgFqLR",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692055341
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "to enjoy",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "to enjoy"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "disfrutar"
+                            }
+                        },
+                        "~:pos": "0Y",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:Qx1LISGe",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692063219
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "to experience",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "to experience"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "experimentar"
+                            }
+                        },
+                        "~:pos": "0V",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:PllYvJ8B",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692067963
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "cafe/coffee shop",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "cafe/coffee shop"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "el cafe/la cafeteria"
+                            }
+                        },
+                        "~:pos": "0q",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:GrHNXNcH",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692034773
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "to get up early",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "to get up early"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "madrugar"
+                            }
+                        },
+                        "~:pos": "0R",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:G1V6BMh3",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692074234
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "place",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "place"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "el lugar"
+                            }
+                        },
+                        "~:pos": "0w",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:nPQtLht5",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692025238
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "date",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "date"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "la cita"
+                            }
+                        },
+                        "~:pos": "3",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:1xoS3GHy",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692015758
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "entertainment",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "entertainment"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "el entretenimiento"
+                            }
+                        },
+                        "~:pos": "0z",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:k0o5koOL",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692020496
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "sports game/match",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "sports game/match"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "el partido (deâ€¦)"
+                            }
+                        },
+                        "~:pos": "0l",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:hAjrdgUh",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692042669
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "to feel like",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "to feel like"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "tener ganas de + infinitive"
+                            }
+                        },
+                        "~:pos": "0K",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:Cs6pVz98",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692085256
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "unforgettable",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "unforgettable"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "inolvidable"
+                            }
+                        },
+                        "~:pos": "0e",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:DsUkVyjy",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692053757
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "board game",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "board game"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "el juego de mesa"
+                            }
+                        },
+                        "~:pos": "0x",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:lvkEr2E5",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692023667
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "to seem",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "to seem"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "parecer"
+                            }
+                        },
+                        "~:pos": "0Q",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:oGrGiycf",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692075800
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "to take a walk",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "to take a walk"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "pasear/dar un paseo/dar una vuelta"
+                            }
+                        },
+                        "~:pos": "0P",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:79sJaR3K",
+                        "~:review-reverse?": true,
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692077383
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "dance club",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "dance club"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "la discoteca"
+                            }
+                        },
+                        "~:pos": "0n",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:1CJXFHEs",
+                        "~:review-reverse?": true,
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692039550
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "to get bored",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "to get bored"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "aburrirse"
+                            }
+                        },
+                        "~:pos": "0c",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:Ib8FLB2c",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692056892
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "to have fun",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "to have fun"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "divertirse (e-ie)"
+                            }
+                        },
+                        "~:pos": "0X",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:Q4aNkt1H",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692064779
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "to lower oneâ€™s stress",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "to lower oneâ€™s stress"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "aliviar el estres/bajar el estes"
+                            }
+                        },
+                        "~:pos": "0b",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:YFPmUwAv",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692058447
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "nice, enjoyable, pleasant",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "nice, enjoyable, pleasant"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "agradable"
+                            }
+                        },
+                        "~:pos": "0i",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:SOkFkDRj",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692047431
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "neighbor",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "neighbor"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "el vecino, la vecina"
+                            }
+                        },
+                        "~:pos": "0r",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:Q8Q7sCNm",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692033180
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "to relax",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "to relax"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "relajarse"
+                            }
+                        },
+                        "~:pos": "0N",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:de0CJKmD",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692080542
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "to go shopping",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "to go shopping"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "ir de compras"
+                            }
+                        },
+                        "~:pos": "0T",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:8FpPHBq5",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692071085
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "to get together with",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "to get together with"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "reunirse con/juntarse con"
+                            }
+                        },
+                        "~:pos": "0M",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:yxnE5XW7",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692082097
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "downtown",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "downtown"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "el centro"
+                            }
+                        },
+                        "~:pos": "0p",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:Sqr5VX3p",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692036354
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "break, relaxation, rest",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "break, relaxation, rest"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "el descanso"
+                            }
+                        },
+                        "~:pos": "2",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:bhLtSfuf",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692017328
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "store",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "store"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "la tienda (deâ€¦)"
+                            }
+                        },
+                        "~:pos": "0j",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:gXhNKxeJ",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692045847
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "show, performance",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "show, performance"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "el espectÃ¡culo"
+                            }
+                        },
+                        "~:pos": "0y",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:iGpvAiSB",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692022101
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "fan/enthusiast",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "fan/enthusiast"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "el aficionado/la aficionada"
+                            }
+                        },
+                        "~:pos": "6",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:0EUfweWI",
+                        "~:review-reverse?": true,
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692011066
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "gym",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "gym"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "el gimnasio"
+                            }
+                        },
+                        "~:pos": "0m",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:1A5VICV9",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692041117
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "friendship",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "friendship"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "la amistad"
+                            }
+                        },
+                        "~:pos": "4",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:B1JLMuiN",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692014185
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "expensive",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "expensive"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "costoso/a, caro/a"
+                            }
+                        },
+                        "~:pos": "0g",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:XiYocJwy",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692050586
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "pleasure",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "pleasure"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "un placer"
+                            }
+                        },
+                        "~:pos": "0v",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:wT1fmYJx",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692026813
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "vacation",
+                        "~:deck-id": "~:tOftvmcF",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "vacation"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "las vacaciones"
+                            }
+                        },
+                        "~:pos": "0s",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:id": "~:qMNO91BX",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1636692031601
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:FuMxHcs7"
+                    }
+                ]
+            },
+            "~:archived?": true,
+            "~:template-id": "~:FuMxHcs7",
+            "~:sort": 1,
+            "~:card-count": 72
+        }
+    ],
+    "~:version": 2,
+    "~:templates": {
+        "~#list": [
+            {
+                "~:id": "~:wCi5qHC5",
+                "~:name": "New SAT Vocabulary",
+                "~:content": "### {{<< Word >>}}\n\n(<< Part of Speech >>) << Definition >>\n> << Sentence >>\n\nSynonym: << Synonym(s) >>\nAntonym: << Antonym(s) >>",
+                "~:fields": {
+                    "~:name": {
+                        "~:id": "~:name",
+                        "~:name": "Word"
+                    },
+                    "~:DjX6sQyW": {
+                        "~:id": "~:DjX6sQyW",
+                        "~:name": "Part of Speech"
+                    },
+                    "~:XCKmaHhi": {
+                        "~:id": "~:XCKmaHhi",
+                        "~:name": "Definition"
+                    },
+                    "~:FsS0wMtA": {
+                        "~:id": "~:FsS0wMtA",
+                        "~:name": "Sentence"
+                    },
+                    "~:L7m5fFQq": {
+                        "~:id": "~:L7m5fFQq",
+                        "~:name": "Synonym(s)"
+                    },
+                    "~:JFlA49J3": {
+                        "~:id": "~:JFlA49J3",
+                        "~:name": "Antonym(s)"
+                    }
+                }
+            },
+            {
+                "~:id": "~:BEFh8mzH",
+                "~:name": "Lang/Comp Vocab",
+                "~:content": "## << Word >> ({{<< Synonym >>}})\n---\n> (<< Part of Speech >>) << Definition >>",
+                "~:fields": {
+                    "~:name": {
+                        "~:id": "~:name",
+                        "~:name": "Word"
+                    },
+                    "~:J84Z7tBQ": {
+                        "~:id": "~:J84Z7tBQ",
+                        "~:name": "Part of Speech"
+                    },
+                    "~:Wp2SuJDX": {
+                        "~:id": "~:Wp2SuJDX",
+                        "~:name": "Definition"
+                    },
+                    "~:BFb7DTV7": {
+                        "~:id": "~:BFb7DTV7",
+                        "~:name": "Synonym"
+                    }
+                }
+            },
+            {
+                "~:id": "~:FuMxHcs7",
+                "~:name": "Spanish Vocab",
+                "~:content": "<< Spanish >>\n---\n<< English >>",
+                "~:fields": {
+                    "~:name": {
+                        "~:id": "~:name",
+                        "~:name": "Spanish"
+                    },
+                    "~:vybf00dv": {
+                        "~:id": "~:vybf00dv",
+                        "~:name": "English"
+                    }
+                }
+            }
+        ]
+    }
+}

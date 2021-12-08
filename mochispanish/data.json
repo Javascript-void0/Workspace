@@ -1,0 +1,1036 @@
+{
+    "~:decks": [
+        {
+            "~:name": "Unit 1b",
+            "~:cards": {
+                "~#list": [
+                    {
+                        "~:content": "",
+                        "~:name": "TV show",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "TV show"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "El programa (de television)"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "A reality show",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "A reality show"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Un programa de realidad/la vida real"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "A game, contest show",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "A game, contest show"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Un programa de concursos"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "A crime show",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "A crime show"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Un programa de crimen"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "A cooking show",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "A cooking show"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Un programa de cocina"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "A drama show",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "A drama show"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Un programa de drama"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "A comedy, sitcom show",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "A comedy, sitcom show"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Un programa de comedia"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "A cartoon, animated show",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "A cartoon, animated show"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Un programa de dibujos animados"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "A interview show",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "A interview show"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Un programa de entrevistas"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "series (sing./plural)",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "series (sing./plural)"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "La serie/las series"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "episode",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "episode"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "El capitulo/el episodio"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "to play the role of",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "to play the role of"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Hacer el papel de"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "season (of a show or sport)",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "season (of a show or sport)"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "La temporada"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "documentary",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "documentary"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "El documental"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "soundtrack",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "soundtrack"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "La banda sonora"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "TV channel",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "TV channel"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "El canal"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "entertainment",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "entertainment"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "El entretenimiento"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "actor, actress",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "actor, actress"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "El actor/la actriz"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "gossip",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "gossip"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "El chisme"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "celebrity",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "celebrity"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "La celebridad"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "character (in movie/show)",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "character (in movie/show)"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "El personaje"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "addict",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "addict"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "El adicto/la adicta"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "success",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "success"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "El exito"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "movie theater, movies in general",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "movie theater, movies in general"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "El cine"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "screen",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "screen"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "La pantalla"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "laptop",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "laptop"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "El portatil"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "computer",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "computer"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "La computadora (Latinoamerica) / El ordenador (Espana)"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "WiFi",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "WiFi"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "El wifi"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "text message",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "text message"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "El mensaje de texto"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "To send a text message",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "To send a text message"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Enviar un mensaje de texto"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "video call, FaceTime",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "video call, FaceTime"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "La videollamada"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "app",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "app"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "La app (la aplicacion)"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "social media",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "social media"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Las redes sociales"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "trend",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "trend"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "La tendencia"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "picture, photo",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "picture, photo"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "La foto"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "picture, image",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "picture, image"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "La imagen"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "influential",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "influential"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Influyente"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "funny",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "funny"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Chistoso/comico/gracioso"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "really good",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "really good"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Buenisimo"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "obsessed (*estar obsesionado*)",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "obsessed (*estar obsesionado*)"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Obsesionado"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "productive",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "productive"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Productivo"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "educational",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "educational"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Educativo"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "entertaining, enjoyable, fun",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "entertaining, enjoyable, fun"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Entretenido"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "great",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "great"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Genial"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "cool (Espana)",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "cool (Espana)"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Guay"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "cool (Latinoamerica)",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "cool (Latinoamerica)"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Chevere"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "realista",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "realista"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Realista"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "unrealistic",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "unrealistic"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Poco realista"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "dumb, silly",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "dumb, silly"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Tonto"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "to be in style",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "to be in style"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Estar de moda"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "to upload",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "to upload"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Subir (fotos, un documento)"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "to download",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "to download"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Descargar (un documento)"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "to post",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "to post"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Publicar"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "to have just + verb",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "to have just + verb"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Acabar de + infinitivo"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "to waste time",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "to waste time"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Perder el tiempo, (e-i)"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "to binge watch (a series)",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "to binge watch (a series)"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Maratonear (una serie)"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "to tend to + verb",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "to tend to + verb"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Tender a + infinitivo (e-ie)"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "to stay up late, to stay up all night",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "to stay up late, to stay up all night"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Trasnochar"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "right now",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "right now"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Ahora mismo"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "Lately, recently",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "Lately, recently"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Ultimamente/Recientemente"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "already",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "already"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Ya"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "Still haven't",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "Still haven't"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Todavia no"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "I have seen/Have you seen?",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "I have seen/Have you seen?"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "He visto/Has visto?"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "sometimes",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "sometimes"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "A veces/De vez en cuando"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "never",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "never"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Nunca"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "always",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "always"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "Siempre"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "The truth is that",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "The truth is that"
+                            },
+                            "~:vybf00dv": {
+                                "~:id": "~:vybf00dv",
+                                "~:value": "La verdad es que"
+                            }
+                        },
+                        "~:template-id": "~:FuMxHcs7"
+                    }
+                ]
+            }
+        }
+    ],
+    "~:version": 2,
+    "~:templates": {
+        "~#list": [
+            {
+                "~:id": "~:FuMxHcs7",
+                "~:name": "Spanish Vocab",
+                "~:content": "<< Spanish >>\n---\n<< English >>",
+                "~:fields": {
+                    "~:name": {
+                        "~:id": "~:name",
+                        "~:name": "Spanish"
+                    },
+                    "~:vybf00dv": {
+                        "~:id": "~:vybf00dv",
+                        "~:name": "English"
+                    }
+                }
+            }
+        ]
+    }
+}
