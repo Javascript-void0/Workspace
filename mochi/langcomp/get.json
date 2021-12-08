@@ -1,0 +1,1637 @@
+{
+    "~:decks": [
+        {
+            "~:published?": {
+                "~#dt": 1632168198672
+            },
+            "~:name": "Language and Composition",
+            "~:show-sides?": true,
+            "~:cards-view": "~:list",
+            "~:id": "~:ZUjgmpp2",
+            "~:cards": {
+                "~#list": [
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "dissimulate",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "dissimulate"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "verb"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "concel or disguise (one's thoughts, feelings, or character)."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "pretend"
+                            }
+                        },
+                        "~:pos": "0E",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:jh0LFrNe",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1635175979965
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "epithet",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "epithet"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "noun"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "an adjective or descriptive phrase expressing a quality characteristic of the person or thing."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "label"
+                            }
+                        },
+                        "~:pos": "09",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:cDJchSB2",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1635810238111
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "cosmopolitan",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "cosmopolitan"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "adjective"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "including or containing people from many different countries."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "multiracial"
+                            }
+                        },
+                        "~:pos": "0I",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:xsfh71F2",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1633901833677
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "ingratiate",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "ingratiate"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "verb"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "bring onself in favor with someone by flattering or trying to please them."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "cultivate"
+                            }
+                        },
+                        "~:pos": "00w",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:bXoLsAS9",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1638311143162
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "culpable",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "culpable"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "adjective"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "deserving blame"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "guilty"
+                            }
+                        },
+                        "~:pos": "0H",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:kEnq96aQ",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1633901892383
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "affinity",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "affinity"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "noun"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "a spontaneous or natural liking or sympathy for someone or something."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "harmony"
+                            }
+                        },
+                        "~:pos": "7",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:zdAA0G7j",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1632167889782
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "adamant",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "adamant"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "adjective"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "refusing to be persuaded or to change one's mind."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "inflexible"
+                            }
+                        },
+                        "~:pos": "U",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:BnMo66l1",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1632167456588
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "bauble",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "bauble"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "noun"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "a small, showy trinket or decoration; something that is superficially attractive but useless or worthless."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "gimmick"
+                            }
+                        },
+                        "~:pos": "0R",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:fP5ZxS3e",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1632599048135
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "happenstance",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "happenstance"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "noun"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "coincidence."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "coincidence"
+                            }
+                        },
+                        "~:pos": "00z",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:7FW83JZl",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1638310989891
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "espouse",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "espouse"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "verb"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "adopt or support (a cause, belief, or way of life)."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "adopt"
+                            }
+                        },
+                        "~:pos": "08",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:9oCDQs1P",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1635810304137
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "beguile",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "beguile"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "verb"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "charm or enchant (someone), sometimes in a deceptive way."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "charm"
+                            }
+                        },
+                        "~:pos": "0Q",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:vUL2nE3b",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1632599285832
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "forestall",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "forestall"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "verb"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "prevent or obstruct (an anticipated event or action) by taking action ahead of time."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "preempt"
+                            }
+                        },
+                        "~:pos": "06",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:zJceixhZ",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1635810401695
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "innocuous",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "innocuous"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "adjective"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "not harmful or offensive."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "harmless"
+                            }
+                        },
+                        "~:pos": "00v",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:UQddlGH8",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1638311190153
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "distill",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "distill"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "verb"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "purify (a liquid) by vaporizing it, then condensing it by cooling the vapor, and collecting the resulting liquid."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "refine"
+                            }
+                        },
+                        "~:pos": "0C",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:KmqU2Sz7",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1635176065490
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "amoral",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "amoral"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "adjective"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "lacking a moral sense; unconcered with the rightness or wrongness of something."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "unethical"
+                            }
+                        },
+                        "~:pos": "0T",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:KnUXZU5X",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1632598971424
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "galling",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "galling"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "adjective"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "annoying; humiliating."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "irritating"
+                            }
+                        },
+                        "~:pos": "04",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:RRtjj2Io",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1637066418649
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "contend",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "contend"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "verb"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "struggle to surmount (a difficulty or danger)."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "take on"
+                            }
+                        },
+                        "~:pos": "0J",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:jmQ4l8RH",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1633901766445
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "depravity",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "depravity"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "noun"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "moral corruption; wickedness"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "corruption"
+                            }
+                        },
+                        "~:pos": "0G",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:HqUEOyvm",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1633901915860
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "bulwark",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "bulwark"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "noun"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "a defensive wall."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "fortification"
+                            }
+                        },
+                        "~:pos": "0O",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:cJyjkBiu",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1633133634709
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "amelioration",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "amelioration"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "noun"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "the act of making something better; improvement."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "improvement"
+                            }
+                        },
+                        "~:pos": "0V",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:LUJtQWw0",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1632168054147
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "derelict",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "derelict"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "adjective"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "in a very poor condition as a result of disuse and neglect."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "run down"
+                            }
+                        },
+                        "~:pos": "0F",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:DkGAVALw",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1635175937335
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "affectation",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "affectation"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "noun"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "behavior, speech, or writing that is artificial and designed to impress."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "affectedness"
+                            }
+                        },
+                        "~:pos": "F",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:dquO9F5l",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1632167609765
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "elicit",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "elicit"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "verb"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "evoke of draw out (a response, answer, or fact) from someone in reacion to one's own actions or questions."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "draw out"
+                            }
+                        },
+                        "~:pos": "0A",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:h5FySsTp",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1635810177193
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "allay",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "allay"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "verb"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "diminish or put at rest (fear, suspicion, or worry)."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "reduce"
+                            }
+                        },
+                        "~:pos": "3",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:CuTCsiGc",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1632168017176
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "dogmatic",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "dogmatic"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "adjective"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "inclined to lay down principles as incontrovertibly true."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "assertive"
+                            }
+                        },
+                        "~:pos": "0B",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:N1ou8UKP",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1635176124277
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "dissipate",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "dissipate"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "verb"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "(with reference to a feeling or other intangible thing) disappear or cause to disappear."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "vanish"
+                            }
+                        },
+                        "~:pos": "0D",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:NDBVPCj3",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1635176032701
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "amenable",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "amenable"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "adjective"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "(of a person) open and responsive to suggestion; easily persuaded or controlled."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "biddable"
+                            }
+                        },
+                        "~:pos": "0U",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:ML3UAIL8",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1632598910981
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "beset",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "beset"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "verb"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "(of a problem of difficulty) trouble or threaten persistently"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "torment"
+                            }
+                        },
+                        "~:pos": "0P",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:qRy2aEXB",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1633133548335
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "expediency",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "expediency"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "noun"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "the quality of being convenient and practical despite possibly being improper or immoral; convenience."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "convenience"
+                            }
+                        },
+                        "~:pos": "07",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:BNDBdRPI",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1635810336640
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "imperturbable",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "imperturbable"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "adjective"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "unable to be upset or excited; calm."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "composed"
+                            }
+                        },
+                        "~:pos": "00x",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:icb62YpO",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1638311107613
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "concomitant",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "concomitant"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "adjective"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "(qualities) naturally accompanying or associated."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "associated"
+                            }
+                        },
+                        "~:pos": "0L",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:j4qLmEZM",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1633133806708
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "furtive",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "furtive"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "adjective"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "attempting to avoid notive or attention, typically because of guilt or a belief that discovery would lead to trouble; secretive."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "secretive"
+                            }
+                        },
+                        "~:pos": "05",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:CDRhYXis",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1637066352669
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "gloat",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "gloat"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "verb"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "contemplate or dwell on one's success of another's misfortune with smugness or malignant pleasure."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "relish) (bragging"
+                            }
+                        },
+                        "~:pos": "03",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:7fnn8tHw",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1637066449284
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "ignominious",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "ignominious"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "adjective"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "deserving or causing public disgrace or shame."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "humiliating"
+                            }
+                        },
+                        "~:pos": "00y",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:HJqvOzM2",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1638311069954
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "complacent",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "complacent"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "adjective"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "showing smug or uncritical satisfaction with oneself or one's achievements. (negative) (lazily)"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "self-approving"
+                            }
+                        },
+                        "~:pos": "0M",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:HU3oDzcZ",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1633133699375
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "busybody",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "busybody"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "noun"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "a meddling or prying person."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "troublemaker"
+                            }
+                        },
+                        "~:pos": "0N",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:pNNEuaPt",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1633133665626
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "assuage",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "assuage"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "verb"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "make (an unpleasant feeling) less intense."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "alleviate"
+                            }
+                        },
+                        "~:pos": "0S",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:gqxP0hsI",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1632599021704
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "gratuitous",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "gratuitous"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "adjective"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "uncalled for; lacking good reason; unwarranted."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "unjustified"
+                            }
+                        },
+                        "~:pos": "02",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:zeCtCBFJ",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1637066496642
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "hallmark",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "hallmark"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "noun"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "a mark stamped on articles of gold, silver, or platinum in Britain, certifying their standard of purity"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "authentication mark"
+                            }
+                        },
+                        "~:pos": "01",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:ebs4Mju9",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1637066550686
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    },
+                    {
+                        "~:tags": {
+                            "~#set": []
+                        },
+                        "~:content": "",
+                        "~:name": "consign",
+                        "~:deck-id": "~:ZUjgmpp2",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "consign"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "verb"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "deliver (something) to a person's custody, typically in order for it to be sold."
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "assign"
+                            }
+                        },
+                        "~:pos": "0K",
+                        "~:references": {
+                            "~#set": []
+                        },
+                        "~:reverse-reviews": [],
+                        "~:id": "~:08ldvVRp",
+                        "~:reviews": [],
+                        "~:created-at": {
+                            "~#dt": 1633901697045
+                        },
+                        "~:new?": false,
+                        "~:template-id": "~:BEFh8mzH"
+                    }
+                ]
+            },
+            "~:template-id": "~:BEFh8mzH",
+            "~:sort": 0,
+            "~:card-count": 6
+        }
+    ],
+    "~:version": 2,
+    "~:templates": {
+        "~#list": [
+            {
+                "~:id": "~:wCi5qHC5",
+                "~:name": "New SAT Vocabulary",
+                "~:content": "### {{<< Word >>}}\n\n(<< Part of Speech >>) << Definition >>\n> << Sentence >>\n\nSynonym: << Synonym(s) >>\nAntonym: << Antonym(s) >>",
+                "~:fields": {
+                    "~:name": {
+                        "~:id": "~:name",
+                        "~:name": "Word"
+                    },
+                    "~:DjX6sQyW": {
+                        "~:id": "~:DjX6sQyW",
+                        "~:name": "Part of Speech"
+                    },
+                    "~:XCKmaHhi": {
+                        "~:id": "~:XCKmaHhi",
+                        "~:name": "Definition"
+                    },
+                    "~:FsS0wMtA": {
+                        "~:id": "~:FsS0wMtA",
+                        "~:name": "Sentence"
+                    },
+                    "~:L7m5fFQq": {
+                        "~:id": "~:L7m5fFQq",
+                        "~:name": "Synonym(s)"
+                    },
+                    "~:JFlA49J3": {
+                        "~:id": "~:JFlA49J3",
+                        "~:name": "Antonym(s)"
+                    }
+                }
+            },
+            {
+                "~:id": "~:BEFh8mzH",
+                "~:name": "Lang/Comp Vocab",
+                "~:content": "## << Word >> ({{<< Synonym >>}})\n---\n> (<< Part of Speech >>) << Definition >>",
+                "~:fields": {
+                    "~:name": {
+                        "~:id": "~:name",
+                        "~:name": "Word"
+                    },
+                    "~:J84Z7tBQ": {
+                        "~:id": "~:J84Z7tBQ",
+                        "~:name": "Part of Speech"
+                    },
+                    "~:Wp2SuJDX": {
+                        "~:id": "~:Wp2SuJDX",
+                        "~:name": "Definition"
+                    },
+                    "~:BFb7DTV7": {
+                        "~:id": "~:BFb7DTV7",
+                        "~:name": "Synonym"
+                    }
+                }
+            },
+            {
+                "~:id": "~:FuMxHcs7",
+                "~:name": "Spanish Vocab",
+                "~:content": "<< Spanish >>\n---\n<< English >>",
+                "~:fields": {
+                    "~:name": {
+                        "~:id": "~:name",
+                        "~:name": "Spanish"
+                    },
+                    "~:vybf00dv": {
+                        "~:id": "~:vybf00dv",
+                        "~:name": "English"
+                    }
+                }
+            },
+            {
+                "~:id": "~:ieieieieie",
+                "~:name": "Lang/Comp Vocab Reverse",
+                "~:content": "> (<< Part of Speech >>) << Definition >>\n---\n## << Word >> ({{<< Synonym >>}})",
+                "~:fields": {
+                    "~:name": {
+                        "~:id": "~:name",
+                        "~:name": "Word"
+                    },
+                    "~:J84Z7tBQ": {
+                        "~:id": "~:J84Z7tBQ",
+                        "~:name": "Part of Speech"
+                    },
+                    "~:Wp2SuJDX": {
+                        "~:id": "~:Wp2SuJDX",
+                        "~:name": "Definition"
+                    },
+                    "~:BFb7DTV7": {
+                        "~:id": "~:BFb7DTV7",
+                        "~:name": "Synonym"
+                    }
+                }
+            }
+        ]
+    }
+}

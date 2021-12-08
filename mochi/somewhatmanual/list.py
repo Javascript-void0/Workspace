@@ -1,3 +1,5 @@
+# manual automation of writing
+
 import sys
 import time
 
@@ -11,7 +13,7 @@ for i in range(6):
 sys.stdout.write('\rDo Not Move    ')
 print('\r')
 
-file = open('./mochispanish/1a.txt')
+file = open('./mochi/1a.txt')
 lines = file.readlines()
 for line in lines:
     split = line.split('; ')

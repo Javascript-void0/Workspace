@@ -1,3 +1,5 @@
+# sorta automate typing / entering
+
 import keyboard
 import time
 import pyautogui

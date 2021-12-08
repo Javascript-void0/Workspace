@@ -1,7 +1,7 @@
 import json
 
 unit = '1b'
-file = open(f'./mochispanish/list/{unit}.txt', 'r')
+file = open(f'./mochi/spanish/lists/{unit}.txt', 'r')
 lines = file.readlines()
 
 data = {
@@ -58,7 +58,7 @@ for i in range(len(lines)):
 
 	data['~:decks'][0]['~:cards']['~#list'][i] = card
 
-with open('./mochispanish/data.json', 'w') as output:
+with open('./mochi/spanish/data.json', 'w') as output:
 	json.dump(data, output)
 output.close()
 

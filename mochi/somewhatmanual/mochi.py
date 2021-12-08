@@ -1,3 +1,5 @@
+# reload / refresh a bunch of cards... to sync published version
+
 import sys
 import time
 

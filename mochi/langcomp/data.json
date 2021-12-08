@@ -1,0 +1,959 @@
+{
+    "~:decks": [
+        {
+            "~:name": "Language and Composition",
+            "~:cards": {
+                "~#list": [
+                    {
+                        "~:content": "",
+                        "~:name": "dissimulate",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "dissimulate"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "verb"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "concel or disguise (one's thoughts, feelings, or character)."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "pretend"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "epithet",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "epithet"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "noun"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "an adjective or descriptive phrase expressing a quality characteristic of the person or thing."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "label"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "cosmopolitan",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "cosmopolitan"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "adjective"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "including or containing people from many different countries."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "multiracial"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "ingratiate",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "ingratiate"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "verb"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "bring onself in favor with someone by flattering or trying to please them."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "cultivate"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "culpable",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "culpable"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "adjective"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "deserving blame"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "guilty"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "affinity",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "affinity"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "noun"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "a spontaneous or natural liking or sympathy for someone or something."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "harmony"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "adamant",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "adamant"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "adjective"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "refusing to be persuaded or to change one's mind."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "inflexible"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "bauble",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "bauble"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "noun"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "a small, showy trinket or decoration; something that is superficially attractive but useless or worthless."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "gimmick"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "happenstance",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "happenstance"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "noun"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "coincidence."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "coincidence"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "espouse",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "espouse"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "verb"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "adopt or support (a cause, belief, or way of life)."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "adopt"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "beguile",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "beguile"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "verb"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "charm or enchant (someone), sometimes in a deceptive way."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "charm"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "forestall",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "forestall"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "verb"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "prevent or obstruct (an anticipated event or action) by taking action ahead of time."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "preempt"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "innocuous",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "innocuous"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "adjective"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "not harmful or offensive."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "harmless"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "distill",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "distill"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "verb"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "purify (a liquid) by vaporizing it, then condensing it by cooling the vapor, and collecting the resulting liquid."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "refine"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "amoral",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "amoral"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "adjective"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "lacking a moral sense; unconcered with the rightness or wrongness of something."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "unethical"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "galling",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "galling"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "adjective"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "annoying; humiliating."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "irritating"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "contend",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "contend"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "verb"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "struggle to surmount (a difficulty or danger)."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "take on"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "depravity",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "depravity"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "noun"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "moral corruption; wickedness"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "corruption"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "bulwark",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "bulwark"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "noun"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "a defensive wall."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "fortification"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "amelioration",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "amelioration"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "noun"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "the act of making something better; improvement."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "improvement"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "derelict",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "derelict"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "adjective"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "in a very poor condition as a result of disuse and neglect."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "run down"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "affectation",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "affectation"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "noun"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "behavior, speech, or writing that is artificial and designed to impress."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "affectedness"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "elicit",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "elicit"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "verb"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "evoke of draw out (a response, answer, or fact) from someone in reacion to one's own actions or questions."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "draw out"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "allay",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "allay"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "verb"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "diminish or put at rest (fear, suspicion, or worry)."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "reduce"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "dogmatic",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "dogmatic"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "adjective"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "inclined to lay down principles as incontrovertibly true."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "assertive"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "dissipate",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "dissipate"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "verb"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "(with reference to a feeling or other intangible thing) disappear or cause to disappear."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "vanish"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "amenable",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "amenable"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "adjective"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "(of a person) open and responsive to suggestion; easily persuaded or controlled."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "biddable"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "beset",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "beset"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "verb"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "(of a problem of difficulty) trouble or threaten persistently"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "torment"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "expediency",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "expediency"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "noun"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "the quality of being convenient and practical despite possibly being improper or immoral; convenience."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "convenience"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "imperturbable",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "imperturbable"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "adjective"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "unable to be upset or excited; calm."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "composed"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "concomitant",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "concomitant"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "adjective"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "(qualities) naturally accompanying or associated."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "associated"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "furtive",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "furtive"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "adjective"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "attempting to avoid notive or attention, typically because of guilt or a belief that discovery would lead to trouble; secretive."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "secretive"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "gloat",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "gloat"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "verb"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "contemplate or dwell on one's success of another's misfortune with smugness or malignant pleasure."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "relish) (bragging"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "ignominious",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "ignominious"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "adjective"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "deserving or causing public disgrace or shame."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "humiliating"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "complacent",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "complacent"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "adjective"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "showing smug or uncritical satisfaction with oneself or one's achievements. (negative) (lazily)"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "self-approving"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "busybody",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "busybody"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "noun"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "a meddling or prying person."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "troublemaker"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "assuage",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "assuage"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "verb"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "make (an unpleasant feeling) less intense."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "alleviate"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "gratuitous",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "gratuitous"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "adjective"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "uncalled for; lacking good reason; unwarranted."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "unjustified"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "hallmark",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "hallmark"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "noun"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "a mark stamped on articles of gold, silver, or platinum in Britain, certifying their standard of purity"
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "authentication mark"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    },
+                    {
+                        "~:content": "",
+                        "~:name": "consign",
+                        "~:fields": {
+                            "~:name": {
+                                "~:id": "~:name",
+                                "~:value": "consign"
+                            },
+                            "~:BFb7DTV7": {
+                                "~:id": "~:BFb7DTV7",
+                                "~:value": "verb"
+                            },
+                            "~:J84Z7tBQ": {
+                                "~:id": "~:J84Z7tBQ",
+                                "~:value": "deliver (something) to a person's custody, typically in order for it to be sold."
+                            },
+                            "~:Wp2SuJDX": {
+                                "~:id": "~:Wp2SuJDX",
+                                "~:value": "assign"
+                            }
+                        },
+                        "~:template-id": "~:langcompreverse"
+                    }
+                ]
+            }
+        }
+    ],
+    "~:version": 2,
+    "~:templates": {
+        "~#list": [
+            {
+                "~:id": "~:langcompreverse",
+                "~:name": "Lang/Comp Vocab Reverse",
+                "~:content": "> (<< Part of Speech >>) << Definition >>\n---\n## << Word >> ({{<< Synonym >>}})",
+                "~:fields": {
+                    "~:name": {
+                        "~:id": "~:name",
+                        "~:name": "Word"
+                    },
+                    "~:J84Z7tBQ": {
+                        "~:id": "~:J84Z7tBQ",
+                        "~:name": "Part of Speech"
+                    },
+                    "~:Wp2SuJDX": {
+                        "~:id": "~:Wp2SuJDX",
+                        "~:name": "Definition"
+                    },
+                    "~:BFb7DTV7": {
+                        "~:id": "~:BFb7DTV7",
+                        "~:name": "Synonym"
+                    }
+                }
+            }
+        ]
+    }
+}
