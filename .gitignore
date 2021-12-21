@@ -3,4 +3,5 @@ venv/
 __pycache__/
 numin/me.txt
 chromedriver.exe
+battery-health/reports
 battery-report.html
