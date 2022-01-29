@@ -1,0 +1,42 @@
+:root {
+    --color: rgb(178, 192, 176);
+    --darkest: #4b4745;
+    --dark: #635e5b;
+    --light: #948d8a;
+}
+
+body {
+    padding: 0;
+    font-family: "Liberation Mono", monospace;
+    background-color: rgb(173, 128, 128);
+    scroll-behavior: smooth;
+    border-color: 1px solid orange;
+    width: 100%;
+    height: 10000px;
+}
+
+
+
+.center {
+    margin: auto;
+    text-align: center;
+    border-color: 1px solid #000;
+    background-color: 1px solid #fff;
+}
+
+div {
+    height: 100%;
+    width: 100px;
+}
+
+.test {
+    background-color: aqua;
+    height: 50%;
+    width: 90%;
+    word-wrap: break-word;
+    text-align: left;
+}
+
+p {
+    color: rgb(178, 192, 176);
+}

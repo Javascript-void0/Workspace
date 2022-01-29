@@ -1,0 +1,133 @@
+:root {
+    --main-padding: 40px;
+    --center-width: 950px;
+    --color-background: #323437;
+    --color-front: #646669;
+    --color-highlight: rgb(226, 183, 20);
+}
+
+html, body {
+    font-family: "Roboto Mono", monospace;
+    font-weight: 540;
+    height: 100%;
+    margin: 0 auto;
+    padding: 0;
+    background-color: var(--color-background);
+}
+
+.wrapper {
+    width: var(--center-width);
+    margin: 0 auto;
+    height: calc(100% - 50px);
+    padding: 25px;
+}
+
+.center {
+    background-color: var(--color-background);
+    height: 100%;
+    text-align: center;
+    text-transform: lowercase;
+    display: flex;
+    flex-direction: column;
+}
+
+#space {
+    flex: auto;
+    background-color: var(--color-background);
+    align-items: center;
+    justify-content: center;
+}
+
+#header {
+    height: 50px;
+    display: grid;
+    grid-template-columns: 14fr 5fr;
+    grid-template-rows: 1fr;
+    grid-template-areas: 
+        "head settings";
+}
+
+#middle {
+    height: 200px;
+    background-color: var(--color-background);
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 6fr 1fr;
+    grid-template-areas: 
+        "text-down"
+        "text"
+        "restart";
+}
+
+#footer {
+    height: 100px;
+    display: grid;
+    grid-template-columns: 14fr 5fr;
+    grid-template-rows: 3fr 1fr;
+    grid-template-areas: 
+        "info info"
+        "links version";
+}
+
+#head {
+    grid-area: head;
+    text-align: left;
+    color: var(--color-front);
+}
+
+#settings {
+    padding-top: 4px;
+    padding-right: 20px;
+    grid-area: settings;
+    text-align: right;
+    color: var(--color-front);
+    font-size: 11px;
+    line-height: 3px;
+    word-spacing: -3px;
+    letter-spacing: 0px;
+}
+
+#text-down {
+    grid-area: text-down;
+}
+
+#text {
+    padding-left: 10px;
+    grid-area: text;
+    text-align: left;
+    color: var(--color-front);
+    font-size: 25px;
+    line-height: 40px;
+    word-spacing: -5px;
+}
+
+#restart {
+    grid-area: restart;
+    text-align: center;
+    color: var(--color-front);
+    font-size: 20px;
+}
+
+#info {
+    grid-area: info;
+    text-align: center;
+    color: var(--color-front);
+    line-height: 10px;
+    font-size: 12px;
+} 
+
+#links {
+    grid-area: links;
+    text-align: left;
+    color: var(--color-front);
+    text-transform: capitalize;
+    font-size: 12px;
+}
+
+#version {
+    padding-right: 20px;
+    grid-area: version;
+    text-align: right;
+    color: var(--color-front);
+    font-size: 13px;
+}

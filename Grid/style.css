@@ -1,0 +1,32 @@
+body {
+font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+* {
+box-sizing: border-box;
+}
+
+.col {
+color: white;
+float: left;
+width: 25%;
+padding: 10px;
+}
+
+.colContainer:after {
+content: "";
+display: table;
+clear: both;
+}
+
+@media screen and (max-width: 900px) {
+.col {
+    width: 50%;
+}
+}
+
+@media screen and (max-width: 600px) {
+.col {
+    width: 100%;
+}
+}

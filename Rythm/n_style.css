@@ -1,0 +1,50 @@
+body {
+    background-color: var(--color2);
+    margin: 0;
+}
+
+:root {
+    --color1: rgb(29,30,34);
+    --color1-5: rgb(37,39,43);
+    --color2: rgb(36,37,41);
+    --color3: rgb(19,20,22);
+    --color4-5: rgb(237, 245, 239);
+    --color4: rgb(210, 224, 220);
+    --color5: rgb(119, 165, 151);
+    --color6: rgb(78, 119, 106);
+}
+
+.c_home {
+    margin-top: 60px;
+    margin-bottom: 120px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.lorem {
+    font-family: Andale Mono, monospace;
+    color: var(--color4);
+    line-height: 29px;
+}
+
+.m_header {
+    background: var(--color6);
+    padding: 12px;
+    text-align: center;
+}
+
+.t_header {
+    font-family: Andale Mono, monospace;
+    color: var(--color4-5)
+}
+
+.m_footer {
+    background: var(--color1);
+    padding: 12px;
+    text-align: center;
+}
+
+.t_footer {
+    font-family: Andale Mono, monospace;
+    color: var(--color4-5)
+}

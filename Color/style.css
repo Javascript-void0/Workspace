@@ -1,0 +1,91 @@
+:root {
+    --color: rgb(178, 192, 176);
+    --darkest: #4b4745;
+    --dark: #635e5b;
+    --light: #948d8a;
+}
+
+body {
+    margin: 0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: var(--darkest);
+    font-family: "Liberation Mono", monospace;
+    scroll-behavior: smooth;
+}
+
+.logo {
+    text-decoration: none;
+}
+
+/* #outer {
+    margin: 0;
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border: 1px solid green;
+} */
+
+#outer {
+    height: 90%;
+    padding: 20px;
+    margin: 12px;
+}
+
+#inner {
+    width: 90%;
+    position: absolute;
+}
+
+/* #header {
+    color: var(--color);
+    text-align: left;
+    padding: 20px;
+    width: 900px;
+} */
+
+.logo {
+    color: var(--color);
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    font-size: 50px;
+    position: absolute;
+}
+
+.options {
+    text-align: right;
+    font-size: 7px;
+}
+
+#text {
+    position: relative;
+    color: var(--light);
+    width: 55%;
+    float: left;
+    left: 23%;
+    top: 35%;
+    font-size: 27px;
+    font-weight: 500;
+}
+
+.button {
+    background-color: none;
+    border: none;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+    color: var(--dark);
+    display: inline-block;
+}
+
+.options button:hover {
+    color: var(--light);
+}
+
