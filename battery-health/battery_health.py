@@ -18,7 +18,7 @@ for i in range(len(files)):
             l = line.split('<td>')
             l = l[2].replace('\n', '')
     name = files[i].split('-')
-    files[i] = f'{name[2]}/{name[3]}/{name[4][:4]}: {l}'
+    files[i] = f'{name[2]}/{name[3]}/{name[4][:4]}: {l}\n'
 
 log = open(f'battery-health/log.txt', 'w')
 log.writelines(files)
