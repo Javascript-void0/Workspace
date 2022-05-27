@@ -5,3 +5,7 @@ numin/me.txt
 chromedriver.exe
 battery-health/reports
 battery-report.html
+_ignore/
+obsidian-move/slite/
+requests/anilist.py
+requests/a.js
